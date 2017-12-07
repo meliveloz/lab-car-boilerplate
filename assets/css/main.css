@@ -157,16 +157,17 @@ body{
 	padding-bottom: 5ch;
 }
 
-.col-map{
-	padding:5vh;
-	padding-left: 25vh;
-}
 .data-orientation{
 	padding-top: 10vh;
 }
 .map{
+
 	border: 2px solid white;
     padding: 1vh;
+}
+
+.col-map{
+	padding:5vh;
 }
 .driver{
 	color: black;
